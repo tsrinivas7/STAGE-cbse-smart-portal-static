@@ -1,15 +1,16 @@
 {
-  "_built": 1773519610,
+  "_built": 1773844000,
   "files": {
+    "./science/chapter_18.html": "7285f4260e06992b",
+    "./science/chapter_09.html": "4591443778a6a9b8",
+    "./science/chapter_11.html": "78684dd10665ae0a",
+    "./science/chapter_05.html": "0344637907d6ce07",
     "./maths/chapter_15.html": "9901dcca04fac929",
     "./maths/chapter_09.html": "8baeb831ed4e6b49",
     "./maths/chapter_08.html": "e4ed5a29ef2a5746",
     "./maths/chapter_07.html": "577362d3bc1c54da",
     "./maths/chapter_06.html": "d8916df3bc5ab07c",
     "./class10_history/chapter_01.html": "9a0e07d7105766b1",
-    "./science/chapter_11.html": "608efb989d6f8def",
-    "./science/chapter_05.html": "85b298ee22de81ce",
-    "./science/chapter_18.html": "f8278b0926663694",
     "./social_history/chapter_06.html": "7af42a9b8084f62e",
     "./social_history/chapter_05.html": "39be85475c55b8da",
     "./social_civics/chapter_06.html": "418f269405602272",
@@ -19,7 +20,7 @@
     "./it/chapter_02.html": "d958550297deff4c",
     "./social_geo/chapter_06.html": "46d9990b59d67a02",
     "./social_geo/chapter_05.html": "bb05a0baad9ac1f4",
-    "./index.html": "15416ae00d46a9e5",
+    "./index.html": "5771fe315b655230",
     "./assets/style.css": "fa0d94186d96ae89",
     "./assets/app.js": "1197ebab7639e428"
   }
