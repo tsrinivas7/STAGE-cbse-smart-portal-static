@@ -1,10 +1,13 @@
 {
-  "_built": 1773844000,
+  "_built": 1773946421,
   "files": {
-    "./science/chapter_18.html": "7285f4260e06992b",
-    "./science/chapter_09.html": "4591443778a6a9b8",
-    "./science/chapter_11.html": "78684dd10665ae0a",
-    "./science/chapter_05.html": "0344637907d6ce07",
+    "./science/chapter_15.html": "07562f7f7c0d375c",
+    "./science/chapter_13.html": "c933dc1533fd1671",
+    "./science/chapter_10.html": "ffa372d1ed8ce694",
+    "./science/chapter_05.html": "3bb544ee533f3f4d",
+    "./science/chapter_11.html": "ba8b2911a68c003e",
+    "./science/chapter_18.html": "88eb5cbf42d3de80",
+    "./science/chapter_09.html": "58ce3d569c8482c5",
     "./maths/chapter_15.html": "9901dcca04fac929",
     "./maths/chapter_09.html": "8baeb831ed4e6b49",
     "./maths/chapter_08.html": "e4ed5a29ef2a5746",
@@ -20,7 +23,7 @@
     "./it/chapter_02.html": "d958550297deff4c",
     "./social_geo/chapter_06.html": "46d9990b59d67a02",
     "./social_geo/chapter_05.html": "bb05a0baad9ac1f4",
-    "./index.html": "5771fe315b655230",
+    "./index.html": "a7938b5168a2a71f",
     "./assets/style.css": "fa0d94186d96ae89",
     "./assets/app.js": "1197ebab7639e428"
   }
