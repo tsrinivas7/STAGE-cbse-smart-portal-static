@@ -1,6 +1,9 @@
 {
-  "_built": 1774118571,
+  "_built": 1783136885,
   "files": {
+    "./social_history/chapter_03.html": "f1202827b480f648",
+    "./social_history/chapter_06.html": "b9c244796154e2a7",
+    "./social_history/chapter_05.html": "9b9e48ff70e78163",
     "./science/chapter_05.html": "217922266d3b4531",
     "./science/chapter_15.html": "07562f7f7c0d375c",
     "./science/chapter_13.html": "c933dc1533fd1671",
@@ -14,8 +17,6 @@
     "./maths/chapter_07.html": "577362d3bc1c54da",
     "./maths/chapter_06.html": "d8916df3bc5ab07c",
     "./class10_history/chapter_01.html": "9a0e07d7105766b1",
-    "./social_history/chapter_06.html": "7af42a9b8084f62e",
-    "./social_history/chapter_05.html": "39be85475c55b8da",
     "./social_civics/chapter_06.html": "418f269405602272",
     "./social_civics/chapter_04.html": "d6926a95893a9b50",
     "./social_civics/chapter_07.html": "1ab4eaac4bf5e8e8",
@@ -23,7 +24,7 @@
     "./it/chapter_02.html": "d958550297deff4c",
     "./social_geo/chapter_06.html": "46d9990b59d67a02",
     "./social_geo/chapter_05.html": "bb05a0baad9ac1f4",
-    "./index.html": "a7938b5168a2a71f",
+    "./index.html": "576b5643cde3d17f",
     "./assets/style.css": "fa0d94186d96ae89",
     "./assets/app.js": "1197ebab7639e428"
   }
