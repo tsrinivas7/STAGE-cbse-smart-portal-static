@@ -1,6 +1,7 @@
 {
-  "_built": 1783516933,
+  "_built": 1783519795,
   "files": {
+    "./class_8_science_chemistry/chapter_07.html": "8241fa1312083868",
     "./class_8_maths/chapter_02.html": "d89f88626821e99e",
     "./class_8_science_biology/chapter_02.html": "1fe68309010779bd",
     "./class_8_science_physics/chapter_04.html": "2d2e03d8de08edf6",
@@ -27,7 +28,7 @@
     "./it/chapter_02.html": "d958550297deff4c",
     "./social_geo/chapter_06.html": "46d9990b59d67a02",
     "./social_geo/chapter_05.html": "bb05a0baad9ac1f4",
-    "./index.html": "81c2bd3f3b0afedf",
+    "./index.html": "04c8169656737cc5",
     "./assets/style.css": "fa0d94186d96ae89",
     "./assets/app.js": "1197ebab7639e428"
   }
