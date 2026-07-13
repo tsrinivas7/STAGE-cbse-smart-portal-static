@@ -1,6 +1,7 @@
 {
-  "_built": 1783872431,
+  "_built": 1783931719,
   "files": {
+    "./class_8_ai/chapter_01.html": "63b352d762bd6994",
     "./class_8_social_history/chapter_03.html": "6fb46e6e0eb229f8",
     "./class_8_social_civics/chapter_05.html": "895fbbf63751f4f0",
     "./class_8_social_geography/chapter_01.html": "f9b0d0f48d029f0f",
@@ -31,7 +32,7 @@
     "./it/chapter_02.html": "d958550297deff4c",
     "./social_geo/chapter_06.html": "46d9990b59d67a02",
     "./social_geo/chapter_05.html": "bb05a0baad9ac1f4",
-    "./index.html": "56a771ff3ddf0d39",
+    "./index.html": "240536e41452c9aa",
     "./assets/style.css": "fa0d94186d96ae89",
     "./assets/app.js": "1197ebab7639e428"
   }
