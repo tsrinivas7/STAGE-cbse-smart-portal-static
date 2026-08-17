@@ -1,12 +1,14 @@
 {
-  "_built": 1784264034,
+  "_built": 1786978147,
   "files": {
+    "./class_8_social_economics/chapter_07.html": "2629a18988ef9e1d",
+    "./class_8_science_biology/chapter_12.html": "c4104068f60af3ba",
+    "./class_8_science_biology/chapter_02.html": "40dc05444bc7cb2e",
     "./class_8_maths/chapter_01.html": "1ea7d12e5d7a52d3",
     "./class_8_maths/chapter_04.html": "656aa2fd67fa7dde",
     "./class_8_maths/chapter_02.html": "e9fa670a9dfc8718",
     "./class_8_science_chemistry/chapter_07.html": "3be037c1111becb7",
     "./class_8_science_physics/chapter_04.html": "96729f32891b5f88",
-    "./class_8_science_biology/chapter_02.html": "0a66313ae938237e",
     "./class_8_ai/chapter_01.html": "63b352d762bd6994",
     "./class_8_social_history/chapter_03.html": "6fb46e6e0eb229f8",
     "./class_8_social_civics/chapter_05.html": "895fbbf63751f4f0",
@@ -34,7 +36,7 @@
     "./it/chapter_02.html": "d958550297deff4c",
     "./social_geo/chapter_06.html": "46d9990b59d67a02",
     "./social_geo/chapter_05.html": "bb05a0baad9ac1f4",
-    "./index.html": "83457949b2513bd4",
+    "./index.html": "c7633d24323cdf6a",
     "./assets/style.css": "fa0d94186d96ae89",
     "./assets/app.js": "1197ebab7639e428"
   }
