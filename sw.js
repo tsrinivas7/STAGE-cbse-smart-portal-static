@@ -14,6 +14,7 @@ const ASSETS = [
     "./class_8_science_physics/chapter_04.html",
     "./class_8_ai/chapter_01.html",
     "./class_8_social_history/chapter_03.html",
+    "./class_8_social_history/chapter_04.html",
     "./class_8_social_civics/chapter_05.html",
     "./class_8_social_geography/chapter_01.html",
     "./social_history/chapter_03.html",
