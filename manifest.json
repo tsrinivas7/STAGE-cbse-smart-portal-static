@@ -1,11 +1,11 @@
 {
-  "name": "CBSE Class 7 Smart Portal",
+  "name": "CBSE Smart Portal",
   "short_name": "CBSE Portal",
-  "description": "CBSE Class 7 study material \u2014 works offline",
+  "description": "CBSE study material \u2014 works offline",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ff4b4b",
+  "theme_color": "#0f4c81",
   "icons": [
     {
       "src": "assets/icon-192.png",
