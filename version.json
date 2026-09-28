@@ -1,8 +1,15 @@
 {
-  "_built": 1790526252,
+  "_built": 1790577695,
   "files": {
+    "./class_8_social_geography/chapter_01+chapter_03+chapter_04+chapter_05+chapter_07.html": "870578abe3199659",
+    "./class_8_social_geography/chapter_01.html": "a916ec49f704770b",
+    "./maths/chapter_01.html": "11908f330357d141",
+    "./maths/chapter_15.html": "a1e08a0c00c1cf58",
+    "./maths/chapter_09.html": "4add227d5e4cd25d",
+    "./maths/chapter_08.html": "f4d7939c3ec72686",
+    "./maths/chapter_07.html": "a85cba1c6e06f77e",
+    "./maths/chapter_06.html": "13e303b3b05ce9dc",
     "./class_8_social_civics/chapter_05.html": "2a4e5f99f86b1758",
-    "./class_8_social_geography/chapter_01.html": "8fa492ad7dd9ad64",
     "./class_8_maths/chapter_05.html": "bf9d08ea24bf7879",
     "./class_8_maths/chapter_04.html": "77e503854de1a68f",
     "./class_8_maths/chapter_01.html": "56f98e8a96381a18",
@@ -26,11 +33,6 @@
     "./science/chapter_11.html": "26d1e677da04295a",
     "./science/chapter_18.html": "06cff36470277bb1",
     "./science/chapter_09.html": "38ea41928476e25c",
-    "./maths/chapter_15.html": "ec5e65e03c73296e",
-    "./maths/chapter_09.html": "39dfb92a092c438e",
-    "./maths/chapter_08.html": "d1cc4a7a4b1bab6d",
-    "./maths/chapter_07.html": "7e91135f00ac9d03",
-    "./maths/chapter_06.html": "675f506727f4193b",
     "./class10_history/chapter_01.html": "b9e745ba47157c59",
     "./social_civics/chapter_06.html": "d5ba33f857ccd2d2",
     "./social_civics/chapter_04.html": "532dd203b7885ccf",
@@ -39,7 +41,7 @@
     "./it/chapter_02.html": "dd197a0346819da6",
     "./social_geo/chapter_06.html": "6fd39517c34cbb98",
     "./social_geo/chapter_05.html": "e03510a1299c89a8",
-    "./index.html": "dc8fc07589fa6aa0",
+    "./index.html": "d79152a88881b896",
     "./assets/style.css": "6f70d26691adb198",
     "./assets/app.js": "1197ebab7639e428"
   }
